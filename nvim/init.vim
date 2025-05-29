@@ -42,7 +42,7 @@ set guicursor=n-v-c:block,i-ci-ve:ver25,r-cr:hor20,o:hor50
 " colorscheme eldritch
 
 " colorscheme onedark
-colorschem dayfox
+colorscheme dayfox
 
 lua require('toggleterm-config')
 nnoremap <C-f> :NERDTreeFocus<CR>
